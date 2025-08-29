@@ -1,6 +1,7 @@
 /* File:   Recursive-Spiral.cpp
  * Author: Jesse Walker-Schadler
  * based on https://runestone.academy/runestone/books/published/cppds/Recursion/pythondsintro-VisualizingRecursion.html
+ * Click the screen to set starting positions
  */
 
 #include "CTurtle.hpp"
